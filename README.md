@@ -1,4 +1,10 @@
-# Sacramento 11/12/25
+# Sacramento 12/12/25
+
+## Code History
+
+Google maps react support:
+
+- https://visgl.github.io/react-google-maps/
 
 ## Creation History
 

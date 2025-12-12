@@ -47,16 +47,49 @@ function App() {
             </td>
           </tr>
           <tr className="odd:bg-violet-200 even:bg-violet-100">
+            <td className="px-4 py-3">Hotel</td>
+            <td className="px-4 py-3">4 PM</td>
+            <td className="px-4 py-3">
+              The Citizen Hotel, Confirmation #89022358
+              <br />
+              <a
+                href="https://maps.app.goo.gl/RECbqAC3wZ9MAajv6"
+                className="underline"
+              >
+                926 J Street, Sacramento, California
+              </a>
+            </td>
+          </tr>
+          <tr className="odd:bg-violet-200 even:bg-violet-100">
+            <td className="px-4 py-3">Welcome Dinner</td>
+            <td className="px-4 py-3">5 PM</td>
+            <td className="px-4 py-3">
+              <a
+                href="https://maps.app.goo.gl/4ARNEaX95T4mpgsW7"
+                className="underline"
+              >
+                1131 El Sur Way
+                <br />
+                Sacramento, CA 95864
+              </a>
+            </td>
+          </tr>
+          <tr className="odd:bg-violet-200 even:bg-violet-100">
             <td className="px-4 py-3">Oak To Las</td>
             <td className="px-4 py-3">
               Sunday, 14<sup>th</sup>
-              <br />
-              7:05AM - 8:40AM
+              <br />9 PM - 10:30 PM
             </td>
             <td className="px-4 py-3">
               Southwest Flight #3874
               <br />
-              Confirmation B8H5KY
+              Confirmation B8H5KY{" "}
+              <a
+                href="https://maps.app.goo.gl/C8BgovUfpaPKTHpx6"
+                className="underline"
+              >
+                Oakland Airport
+              </a>
             </td>
           </tr>
         </tbody>

@@ -65,14 +65,21 @@ function App() {
             <td className="px-4 py-3">12 PM - 2 PM</td>
             <td className="px-4 py-3">
               <a
+                href="https://maps.app.goo.gl/537hCsM6AajfPjgZ7"
+                className="underline"
+              >
+                Ethiopian Tea And Restaurant
+              </a>
+              <hr className="my-2 border-gray-200" />
+              <a
                 href="https://share.google/vyydr9neGvOSmQAE7"
                 className="underline"
               >
                 The Cathedral of Christ the Light
                 <br />
-                Mass at Noon
+                Mass at Noon, 11 AM - 2:30 PM
               </a>
-              <hr className="my-2" />
+              <hr className="my-2 border-gray-200" />
               <a
                 href="https://maps.app.goo.gl/oA2jmyQaXVoBK2ow6"
                 className="underline"

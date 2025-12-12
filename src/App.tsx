@@ -68,7 +68,7 @@ function App() {
                 href="https://maps.app.goo.gl/537hCsM6AajfPjgZ7"
                 className="underline"
               >
-                Ethiopian Tea And Restaurant
+                Enssaro Ethiopian Tea And Restaurant
               </a>
               <hr className="my-2 border-gray-200" />
               <a

@@ -50,13 +50,15 @@ function App() {
             <td className="px-4 py-3">Hotel</td>
             <td className="px-4 py-3">4 PM</td>
             <td className="px-4 py-3">
-              The Citizen Hotel, Confirmation #89022358
+              The Citizen Hotel
+              <br />
+              Confirmation #89022358
               <br />
               <a
                 href="https://maps.app.goo.gl/RECbqAC3wZ9MAajv6"
                 className="underline"
               >
-                926 J Street, Sacramento, California
+                926 J Street, Sacramento, CA
               </a>
             </td>
           </tr>
@@ -109,7 +111,8 @@ function App() {
             <td className="px-4 py-3">
               Southwest Flight #3874
               <br />
-              Confirmation B8H5KY{" "}
+              Confirmation B8H5KY
+              <br />
               <a
                 href="https://maps.app.goo.gl/C8BgovUfpaPKTHpx6"
                 className="underline"

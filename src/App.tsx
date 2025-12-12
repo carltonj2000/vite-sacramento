@@ -23,7 +23,7 @@ function App() {
           <tr className="odd:bg-violet-200 even:bg-violet-100">
             <td className="px-4 py-3">Leave Home</td>
             <td className="px-4 py-3">
-              Friday 10<sup>th</sup>
+              Friday 12<sup>th</sup>
               <br />5 AM
             </td>
             <td className="px-4 py-3">Park Teresa's car at airport</td>
@@ -61,7 +61,11 @@ function App() {
             </td>
           </tr>
           <tr className="odd:bg-violet-200 even:bg-violet-100">
-            <td className="px-4 py-3">Welcome Dinner</td>
+            <td className="px-4 py-3">
+              <a href="/welcomeDinner.jpg" className="underline">
+                Welcome Dinner
+              </a>
+            </td>
             <td className="px-4 py-3">5 PM</td>
             <td className="px-4 py-3">
               <a
@@ -71,6 +75,28 @@ function App() {
                 1131 El Sur Way
                 <br />
                 Sacramento, CA 95864
+              </a>
+            </td>
+          </tr>
+          <tr className="odd:bg-violet-200 even:bg-violet-100">
+            <td className="px-4 py-3">
+              <a href="/christmas.webp" className="underline">
+                Crawdads on the River
+              </a>
+            </td>
+            <td className="px-4 py-3">
+              Saturday 13<sup>th</sup>
+              <br />
+              6:30 PM
+            </td>
+            <td className="px-4 py-3">
+              <a
+                href="https://maps.app.goo.gl/PwzPpSbcPUmRvPgC8"
+                className="underline"
+              >
+                1375 Garden Hwy
+                <br />
+                Sacramento, CA 95833
               </a>
             </td>
           </tr>

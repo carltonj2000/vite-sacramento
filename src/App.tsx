@@ -47,6 +47,20 @@ function App() {
             </td>
           </tr>
           <tr className="odd:bg-violet-200 even:bg-violet-100">
+            <td className="px-4 py-3">Kitchen Story</td>
+            <td className="px-4 py-3">11 AM</td>
+            <td className="px-4 py-3">
+              <a
+                href="https://share.google/DBfvVlFFEpWjODh2l"
+                className="underline"
+              >
+                5422 College Ave
+                <br />
+                Oakland Ca
+              </a>
+            </td>
+          </tr>
+          <tr className="odd:bg-violet-200 even:bg-violet-100">
             <td className="px-4 py-3">Hotel</td>
             <td className="px-4 py-3">4 PM</td>
             <td className="px-4 py-3">

@@ -21,6 +21,93 @@ function App() {
         </thead>
         <tbody>
           <tr className="odd:bg-violet-200 even:bg-violet-100">
+            <td className="px-4 py-3">Hotel</td>
+            <td className="px-4 py-3">4 PM</td>
+            <td className="px-4 py-3">
+              The Citizen Hotel
+              <br />
+              Confirmation #89022358
+              <br />
+              <a
+                href="https://maps.app.goo.gl/RECbqAC3wZ9MAajv6"
+                className="underline"
+              >
+                926 J Street, Sacramento, CA
+              </a>
+            </td>
+          </tr>
+          <tr className="odd:bg-violet-200 even:bg-violet-100">
+            <td className="px-4 py-3">
+              The Morning Fork
+            </td>
+            <td className="px-4 py-3">
+              Saturday 13<sup>th</sup>
+              <br />
+              6:30 PM
+            </td>
+            <td className="px-4 py-3">
+              <a
+                href="https://maps.app.goo.gl/PwzPpSbcPUmRvPgC8"
+                className="underline"
+              >
+                1375 Garden Hwy
+                <br />
+                Sacramento, CA 95833
+              </a>
+            </td>
+          </tr>
+          <tr className="odd:bg-violet-200 even:bg-violet-100">
+            <td className="px-4 py-3">
+              <a href="/christmas.webp" className="underline">
+                Crawdads on the River
+              </a>
+            </td>
+            <td className="px-4 py-3">
+              Saturday 13<sup>th</sup>
+              <br />
+              6:30 PM
+            </td>
+            <td className="px-4 py-3">
+              <a
+                href="https://maps.app.goo.gl/PwzPpSbcPUmRvPgC8"
+                className="underline"
+              >
+                1375 Garden Hwy
+                <br />
+                Sacramento, CA 95833
+              </a>
+            </td>
+          </tr>
+          <tr className="odd:bg-violet-200 even:bg-violet-100">
+            <td className="px-4 py-3">Oak To Las</td>
+            <td className="px-4 py-3">
+              Sunday, 14<sup>th</sup>
+              <br />9 PM - 10:30 PM
+            </td>
+            <td className="px-4 py-3">
+              Southwest Flight #3874
+              <br />
+              Confirmation B8H5KY
+              <br />
+              <a
+                href="https://maps.app.goo.gl/C8BgovUfpaPKTHpx6"
+                className="underline"
+              >
+                Oakland Airport
+              </a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  );
+}
+
+export default App;
+
+/*
+
+          <tr className="odd:bg-violet-200 even:bg-violet-100">
             <td className="px-4 py-3">Leave Home</td>
             <td className="px-4 py-3">
               Friday 12<sup>th</sup>
@@ -90,22 +177,7 @@ function App() {
               </a>
             </td>
           </tr>
-          <tr className="odd:bg-violet-200 even:bg-violet-100">
-            <td className="px-4 py-3">Hotel</td>
-            <td className="px-4 py-3">4 PM</td>
-            <td className="px-4 py-3">
-              The Citizen Hotel
-              <br />
-              Confirmation #89022358
-              <br />
-              <a
-                href="https://maps.app.goo.gl/RECbqAC3wZ9MAajv6"
-                className="underline"
-              >
-                926 J Street, Sacramento, CA
-              </a>
-            </td>
-          </tr>
+          
           <tr className="odd:bg-violet-200 even:bg-violet-100">
             <td className="px-4 py-3">
               <a href="/welcomeDinner.jpg" className="underline">
@@ -124,51 +196,4 @@ function App() {
               </a>
             </td>
           </tr>
-          <tr className="odd:bg-violet-200 even:bg-violet-100">
-            <td className="px-4 py-3">
-              <a href="/christmas.webp" className="underline">
-                Crawdads on the River
-              </a>
-            </td>
-            <td className="px-4 py-3">
-              Saturday 13<sup>th</sup>
-              <br />
-              6:30 PM
-            </td>
-            <td className="px-4 py-3">
-              <a
-                href="https://maps.app.goo.gl/PwzPpSbcPUmRvPgC8"
-                className="underline"
-              >
-                1375 Garden Hwy
-                <br />
-                Sacramento, CA 95833
-              </a>
-            </td>
-          </tr>
-          <tr className="odd:bg-violet-200 even:bg-violet-100">
-            <td className="px-4 py-3">Oak To Las</td>
-            <td className="px-4 py-3">
-              Sunday, 14<sup>th</sup>
-              <br />9 PM - 10:30 PM
-            </td>
-            <td className="px-4 py-3">
-              Southwest Flight #3874
-              <br />
-              Confirmation B8H5KY
-              <br />
-              <a
-                href="https://maps.app.goo.gl/C8BgovUfpaPKTHpx6"
-                className="underline"
-              >
-                Oakland Airport
-              </a>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  );
-}
-
-export default App;
+ */

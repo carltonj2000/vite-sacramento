@@ -21,44 +21,6 @@ function App() {
         </thead>
         <tbody>
           <tr className="odd:bg-violet-200 even:bg-violet-100">
-            <td className="px-4 py-3">Hotel</td>
-            <td className="px-4 py-3">4 PM</td>
-            <td className="px-4 py-3">
-              The Citizen Hotel
-              <br />
-              Confirmation #89022358
-              <br />
-              <a
-                href="https://maps.app.goo.gl/RECbqAC3wZ9MAajv6"
-                className="underline"
-              >
-                926 J Street, Sacramento, CA
-              </a>
-            </td>
-          </tr>
-          <tr className="odd:bg-violet-200 even:bg-violet-100">
-            <td className="px-4 py-3">
-              <a href="/christmas.webp" className="underline">
-                Crawdads on the River
-              </a>
-            </td>
-            <td className="px-4 py-3">
-              Saturday 13<sup>th</sup>
-              <br />
-              6:30 PM
-            </td>
-            <td className="px-4 py-3">
-              <a
-                href="https://maps.app.goo.gl/PwzPpSbcPUmRvPgC8"
-                className="underline"
-              >
-                1375 Garden Hwy
-                <br />
-                Sacramento, CA 95833
-              </a>
-            </td>
-          </tr>
-          <tr className="odd:bg-violet-200 even:bg-violet-100">
             <td className="px-4 py-3">Orphan Andy's</td>
             <td className="px-4 py-3">
               Sunday, 14<sup>th</sup>
@@ -213,6 +175,44 @@ export default App;
           <tr className="odd:bg-violet-200 even:bg-violet-100">
             <td className="px-4 py-3">
               The Morning Fork
+            </td>
+            <td className="px-4 py-3">
+              Saturday 13<sup>th</sup>
+              <br />
+              6:30 PM
+            </td>
+            <td className="px-4 py-3">
+              <a
+                href="https://maps.app.goo.gl/PwzPpSbcPUmRvPgC8"
+                className="underline"
+              >
+                1375 Garden Hwy
+                <br />
+                Sacramento, CA 95833
+              </a>
+            </td>
+          </tr>
+          <tr className="odd:bg-violet-200 even:bg-violet-100">
+            <td className="px-4 py-3">Hotel</td>
+            <td className="px-4 py-3">4 PM</td>
+            <td className="px-4 py-3">
+              The Citizen Hotel
+              <br />
+              Confirmation #89022358
+              <br />
+              <a
+                href="https://maps.app.goo.gl/RECbqAC3wZ9MAajv6"
+                className="underline"
+              >
+                926 J Street, Sacramento, CA
+              </a>
+            </td>
+          </tr>
+          <tr className="odd:bg-violet-200 even:bg-violet-100">
+            <td className="px-4 py-3">
+              <a href="/christmas.webp" className="underline">
+                Crawdads on the River
+              </a>
             </td>
             <td className="px-4 py-3">
               Saturday 13<sup>th</sup>

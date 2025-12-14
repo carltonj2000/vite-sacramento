@@ -74,18 +74,23 @@ function App() {
             </td>
           </tr>
           <tr className="odd:bg-violet-200 even:bg-violet-100">
-            <td className="px-4 py-3">Lombardi Street</td>
+            <td className="px-4 py-3">Lombard Street</td>
             <td className="px-4 py-3">12 PM - 1 PM</td>
             <td className="px-4 py-3">Address tbd</td>
           </tr>
           <tr className="odd:bg-violet-200 even:bg-violet-100">
-            <td className="px-4 py-3">Park</td>
+            <td className="px-4 py-3">Presidio Tunnel Top</td>
             <td className="px-4 py-3">1 AM - 3 PM</td>
             <td className="px-4 py-3">Address tbd</td>
           </tr>
           <tr className="odd:bg-violet-200 even:bg-violet-100">
-            <td className="px-4 py-3">Event tbd</td>
-            <td className="px-4 py-3">2 PM - 3 PM</td>
+            <td className="px-4 py-3">Salesforce Park</td>
+            <td className="px-4 py-3">2 PM - 4 PM</td>
+            <td className="px-4 py-3">Address tbd</td>
+          </tr>
+          <tr className="odd:bg-violet-200 even:bg-violet-100">
+            <td className="px-4 py-3">China Town Dinner</td>
+            <td className="px-4 py-3">4 PM - 6 PM</td>
             <td className="px-4 py-3">Address tbd</td>
           </tr>
           <tr className="odd:bg-violet-200 even:bg-violet-100">
